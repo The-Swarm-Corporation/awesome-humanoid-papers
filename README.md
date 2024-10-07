@@ -34,4 +34,7 @@
 A compilation of the best humanoid papers by the [Swarms](https://github.com/kyegomez/swarms) Team. Our mission is to democratize humanoid systems to automate the world economy with agents and usher in a post-scarcity Human civilization. [Join our community now!](https://discord.com/servers/agora-999382051935506503)
 
 
+## Papers
+
 - [Learning Humanoid Locomotion over Challenging Terrain](https://arxiv.org/html/2410.03654v1)
+- [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
